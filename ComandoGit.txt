@@ -22,3 +22,12 @@ git config --global user.email "seu email"
 git add . 
 
 essa linha eu estou criando para não utilizar 
+
+//lista todos os commits 
+git log 
+
+//retorna para um commit pelo id 
+git reset --hard head numerodoiddocommit
+
+//retorna para um determinado numero de commits 
+git reset --hard head~1
