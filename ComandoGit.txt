@@ -20,3 +20,5 @@ git config --global user.email "seu email"
 
 //adicionar todas as alterações do projeto na proxima versão
 git add . 
+
+essa linha eu estou criando para não utilizar 
