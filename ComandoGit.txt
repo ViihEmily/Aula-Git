@@ -1,0 +1,19 @@
+TRABALHANDO LOCAL:
+
+//iniciar um controle de versões 
+git init 
+
+//verificar atualizações/modificações no projeto
+git status 
+
+//adicionar o arquivo mencionado na proxima versão 
+git add nomedoarquivo.extensaoarquivo
+
+//criar a próxima versão
+git committ -m "dscrição breve da versão criada" 
+
+//adicionar nome de usuario n
+git config --global user.nome "Seu nome"
+
+//adicionar email do usuário 
+git config --global user.email "seu email"
